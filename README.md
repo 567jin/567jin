@@ -1,7 +1,7 @@
 # 👋 Hi,  I’m @567jin
 - 🏡 作品：<a href="https://github.com/567jin/AlgorithmPractice" target="_blank">算法刷题记录</a> | <a href="https://github.com/567jin/ApiHub-SDK" target="_blank">API-Hub 接口开放分享平台</a>
 - 👨‍🎓 I'm currently pursuing a master's degree in electronic communications at Beijing University of Posts and Telecommunications.
-- :shipit: My research is on deep learning in CV-QKD. Mainly time series related
+- :shipit: Research Focus: Deep Learning in CV-QKD for Time Series Analysis. Current Progress:  <a href="https://github.com/567jin/Random-number-randomness-test" target="_blank">提升深度学习网络在随机数随机性检验的能力</a> | <a href="https://github.com/567jin/seq2seq_lowSampleRestore" target="_blank">深度学习用于CV-QKD的时钟恢复</a>
 - 🌱 I’m currently learning software development
 - 📧 You can reach me: 2737917147@qq.com
 - 💻️ I love programming, it brings me fun! 
